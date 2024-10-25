@@ -1,0 +1,39 @@
+[
+  {
+    "email": "sha99@gmail.com",
+    "password": "$2b$08$ZKYlm05/dCZTa/fUL0rJkuEpYuNx8ZZekeWFmTxdZJx4Op/UAlxJS",
+    "id": "6727f8cb-1fba-4c4f-bdce-3a1a7b65bc64"
+  },
+  {
+    "email": "shashi99@gmail.com",
+    "password": "$2b$08$M5/n2GX6uMRjgYIzU/36wu7daCQ/5d8AOMJsiv./03bCnsLK5Fdzy",
+    "id": "3fc6e752-3ba5-4a1d-81f6-58decd334a72"
+  },
+  {
+    "email": "shashin99@gmail.com",
+    "password": "$2b$08$.aTRBy6Fqb.mqyPsiNUEWuCYV1JByzYt0Y8Md1X7.oEaNpLy/ZJ0i",
+    "id": "d004aef5-8bab-4f1e-9558-148530c5c959"
+  },
+  {
+    "email": "fdf",
+    "password": "$2b$08$sAwOd8/eP2YorLkstuCSXOUqShQTq9cRmcC4GhXL9WtBP7bsWKfOe",
+    "confirmPassword": "dfd",
+    "id": "dc6799e5-3daf-452d-979e-35c0ede0a0e0"
+  },
+  {
+    "email": "s@gmail.com",
+    "password": "$2b$08$viE7ynvlOnGj7AAa1LobJOm1DRhtU1mR7TSZsvkHHv5rpe7d3b/gG",
+    "id": "ade132fd-6ee6-48aa-96ee-92ccdbcaa8ee"
+  },
+  {
+    "email": "s3@gmail.com",
+    "password": "$2b$08$uRfvIUA3ZPGRfZcpwwmALuC.GyVKd.cAhj8oaab60N4qgsXvLAnTC",
+    "id": "25a6e245-b196-42ad-a909-648ebc7a40a4"
+  },
+  {
+    "email": "s23@gmail.com",
+    "password": "$2b$08$5m0Kysj.mGkewwfgyKd2rO8NIt5V75lAzkzlLbQpWvAVer2.T9qhK",
+    "userRole": "Course Follower",
+    "id": "5911357d-9bf5-4bd7-8868-4eaaf0eb6bed"
+  }
+]
